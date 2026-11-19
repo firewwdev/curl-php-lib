@@ -1,5 +1,5 @@
 {
-    "name": "gabriel.santos/curl-php-lib",
+    "name": "firewwdev/curl-php-lib",
     "autoload": {
         "psr-4": {
             "Firewwdev\\CurlPhpLib\\": "src/"

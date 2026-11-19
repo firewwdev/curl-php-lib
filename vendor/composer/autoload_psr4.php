@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'GabrielSantos\\CurlPhpLib\\' => array($baseDir . '/src'),
+    'Firewwdev\\CurlPhpLib\\' => array($baseDir . '/src'),
 );
