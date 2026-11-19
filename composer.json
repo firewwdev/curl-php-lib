@@ -1,0 +1,15 @@
+{
+    "name": "gabriel.santos/curl-php-lib",
+    "autoload": {
+        "psr-4": {
+            "Firewwdev\\CurlPhpLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Gomes",
+            "email": "gg5850523@gmail.com"
+        }
+    ],
+    "require": {}
+}
